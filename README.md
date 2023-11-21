@@ -1,3 +1,4 @@
 #student's-demo
-This is my first GitHub repository
+<br>
+This is my first GitHub repository.
 Autho - Rohit Giri
